@@ -1,6 +1,6 @@
 # Fakeproof-for-GFG-Hakathon
 
-# Deepfake Video Generator -
+# Deepfake Video Generator 
 The main objective of this project is to develop a robust deepfake video generation system capable of producing highly realistic synthetic media. This will involve:
 
 Data Acquisition: Collecting a diverse dataset of high-quality videos and images.
